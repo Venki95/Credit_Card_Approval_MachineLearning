@@ -1,8 +1,7 @@
-Credit Card Approval 
+# Credit Card Approval 
 
   1. The main objective is to train data set on various classification models and to choose the best one.
-  2. Import Dataset in Kaggle 
-      Kaggle dataset url: https://www.kaggle.com/datasets/rikdifos/credit-card-approval-prediction
+  2. Import Dataset in Kaggle (dataset url: https://www.kaggle.com/datasets/rikdifos/credit-card-approval-prediction)
   3. Import Data set and Import Libraries are Numpy, Pandas, Seaborn, Matplotlib.
   4. Data Cleaning and Handling Missing Data.
   5. Performed Encoding Categorial Data using Label Encoder method.
